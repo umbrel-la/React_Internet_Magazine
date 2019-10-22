@@ -1,0 +1,31 @@
+.active__6cc4b3e{
+    color: red;
+}
+
+.myItem__d3d4b53{
+    background: #eee;
+}
+.input__569093f{
+    width: 50px;
+}
+.col__bb9b535{
+    margin-top: 30px;
+    width: 100%;
+}
+.box__9f3543b{
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 300px;
+    z-index: 10000;
+    padding: 10px 10px 0 0;
+}
+
+.item__4c42bd8{
+    margin: 0 0 10px 0;
+    background: #444;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    padding: 10px;
+}
